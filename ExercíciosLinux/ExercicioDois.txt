@@ -1,0 +1,2 @@
+echo "Ariel Grimm" > clientes01.txt
+ls
