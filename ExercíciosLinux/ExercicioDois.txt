@@ -1,2 +1,2 @@
-echo "Ariel Grimm" > clientes01.txt
+echo "Ariel Grimm" > cliente_01.txt
 ls
