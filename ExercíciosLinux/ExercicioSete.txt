@@ -1,0 +1,2 @@
+rm cliente01.txt
+ls
