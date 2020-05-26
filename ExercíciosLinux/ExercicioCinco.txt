@@ -1,1 +1,3 @@
-
+mv cliente01.txt clientes
+cd clientes
+ls
