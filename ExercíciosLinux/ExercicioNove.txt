@@ -1,1 +1,2 @@
-
+chmod +x cliente.script
+./cliente.script
