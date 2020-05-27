@@ -1,1 +1,1 @@
-tar -cf compactado.tar balneario.txt
+tar -xf compactado.tar balneario.txt
