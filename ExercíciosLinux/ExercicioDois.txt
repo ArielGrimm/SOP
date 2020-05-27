@@ -1,2 +1,2 @@
 echo "Ariel Grimm" > cliente01.txt
-less
+less cliente01.txt
