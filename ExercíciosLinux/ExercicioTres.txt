@@ -1,1 +1,1 @@
-echo "Joinville" >> cliente01.txt
+echo "Joinville - SC - Brasil" >> cliente01.txt
