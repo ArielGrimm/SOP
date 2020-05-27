@@ -1,1 +1,1 @@
-
+O comando "grep "do Sul" cidades_sc.txt", mostrou em tela todo o texto passado entre "" no comando.
