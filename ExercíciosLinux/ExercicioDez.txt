@@ -1,1 +1,6 @@
+cal
+echo|cal > hoje.txt
+ls
+less hoje.txt
 
+O comando mostra o calendário do mês e a data atual no terminal. Utilizando o comando conforme na linha 2 do código, é copiado o calendário para o arquivo hoje.txt
