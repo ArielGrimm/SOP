@@ -1,1 +1,7 @@
-
+echo "Ariel Grimm" > cliente01.txt
+echo "Joinville - SC - Brasil" >> cliente01.txt
+mkdir clientes
+mv cliente01.txt clientes
+cd clientes
+cp cliente01.txt cliente01.txt.bkp
+rm cliente01.txt
