@@ -1,1 +1,1 @@
-
+O comando "grep balneario cidades_sc.txt" não houve retorno nenhum pois o texto inserido no código precisa estar exatamente igual ao texto que está no arquivo .txt, incluindo as diferenças entre letras maiúsculas e minúsculas.
